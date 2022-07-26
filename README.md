@@ -38,7 +38,7 @@ Minikube dashboard:
 
     > minikube dashboard
 
-### 1.4 Create a namespace e the ClusterRole
+### 1.4 Create a namespace and the ClusterRole
 
     > kubectl create namespace monitoring
     > kubectl create -f clusterRole.yaml
